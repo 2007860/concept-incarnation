@@ -1,6 +1,8 @@
 {
-  "prompt": "A realistic photograph of a tailor in a dimly lit workshop crafting an extremely complex and unusual suit that perfectly fits one oddly shaped mannequin, while several normal mannequins nearby cannot wear it, hyper realistic, cinematic lighting, detailed textures, no text, no diagrams",
+  "prompt": "Gradient descent visualized as a valley with contour lines, arrows moving downhill toward a minimum, rendered in authentic Japanese ukiyo-e woodblock print style. Use flat areas of color, bold outlines, minimal shading, visible woodgrain texture, asymmetrical composition inspired by Hokusai, muted indigo, beige, and ochre palette. No modern elements, no 3D rendering, no gradients, no photorealism.",
   "model": "DALL·E 3",
-  "concept": "overfitting",
-  "metaphor": "A suit perfectly tailored to one unusual body but unusable for others, representing a model that fits training data but fails to generalize"
+  "concept": "Gradient Descent Optimization",
+  "tradition_name": "Japanese Ukiyo-e Woodblock Prints",
+  "tradition_period": "1603–1868",
+  "tradition_approach": "Flat color planes, bold contour lines, asymmetrical composition, visible woodgrain texture, and limited natural pigments to authentically match ukiyo-e visual grammar."
 }
